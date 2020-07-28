@@ -1,9 +1,9 @@
 < html>
 <head>
      <meta charset="utf-8">
-     <title>Простая структура</title>
+     <title>Сдаю домашнее задание</title>
 </head>
 <body>
-     <p>Сдаю домашку</p>
+     <p>задание 1</p>
 </body>
 </html>
